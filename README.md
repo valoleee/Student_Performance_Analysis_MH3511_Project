@@ -1,6 +1,6 @@
 # Student_Performance_Analysis_MH3511_Project
 
-A data analysis project investigating how various factors — such as study habits, parental background, and extracurricular involvement—affect students’ academic performance. This was completed as part of the **MH3511 Data Analysis in Computer** course (AY2024/2025 Semester 2) at Nanyang Technological University.
+A data analysis project investigating how various factors — such as study habits, parental background, and extracurricular involvement — affect students’ academic performance. This was completed as part of the **MH3511 Data Analysis in Computer** course (AY2024/2025 Semester 2) at Nanyang Technological University.
 
 ---
 
