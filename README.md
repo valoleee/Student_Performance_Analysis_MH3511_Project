@@ -4,7 +4,7 @@ A data analysis project investigating how various factors — such as study habi
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project explores a dataset of 500 students and seeks to answer key questions such as:
 
@@ -21,7 +21,7 @@ We used various statistical tests and regression analysis to uncover significant
 
 ---
 
-## 🧮 Methods Used
+## Methods Used
 
 - **Data Cleaning**: Removed duplicates, handled missing values
 - **Exploratory Data Analysis (EDA)**: Summary statistics, histograms, boxplots
@@ -37,7 +37,7 @@ We used various statistical tests and regression analysis to uncover significant
 
 ---
 
-## 📌 Key Findings
+## Key Findings
 
 - Study hours per week significantly influence pass/fail outcomes.
 - Past examination scores and attendance rate are moderately correlated with final examination scores.
@@ -45,7 +45,7 @@ We used various statistical tests and regression analysis to uncover significant
 
 ---
 
-## 💬 Acknowledgments
+## Acknowledgments
 
 This is a group project for **MH3511 Data Analysis in Computer** at **NTU**, completed by:
 
